@@ -1,0 +1,172 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.first{
+	height: 280px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 20px;
+	
+}
+
+
+.first img{
+	border-radius: 50px;
+	display: block;
+	margin: auto;
+}
+.first:hover{
+	background-color: red;
+}
+
+
+.input{
+	padding-left: 200px;
+}
+.first p:hover{
+	
+}
+
+.dinner{
+    height: 500px;
+}
+.icon i:hover{
+    color: rgb(255, 98, 0);
+    cursor: pointer;
+}
+nav input{
+    width: 600px;
+    padding: 11px;
+    height: 20px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    border-radius: 2px;
+}
+.input i{
+    margin-left: -28px;
+    color: black;
+    font-size: 20px;
+}
+
+.main{
+    height: 500px;
+}
+.food-item .card{
+    height: 400px;
+}
+.food-item .card p{
+    color: #000;
+}
+.food-item .card h2{
+	 color: #000;
+}
+
+
+.contact{
+	padding-right: 100%;
+
+}
+
+.gallery{
+	height: 500px;
+	
+}
+
+
+
+
+.team-member{
+	height: auto;
+}
+.team-member{
+	border-radius: 15px,0px,15px,0px;
+}
+.team-member a{
+	color: #000;
+	text-decoration: none;
+
+}
+
+
+
+.footer{
+	height: auto;
+	background-color: #190482;
+}
+.footer-add h4{
+	border-bottom: 1px solid #fff;
+	padding-bottom: 8px;
+}
+.footer-add i{
+	color: #fff;
+	padding-top: 10px;
+}
+.footer-add span{
+	color: #fff;
+	padding-top: 10px;
+	font-family: Areal;
+}
+.footer-add a{
+	color: #fff;
+	text-decoration: none;
+}
+#social{
+	margin-top: 10px;
+}
+#social a i{
+	border-radius: 50px;
+	border:1px solid #fff;
+}
+#social .fa-facebook-f{
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+#social .fa-facebook-f:hover{
+	background-color: #fff;
+	color: blue;
+}
+#social .fa-twitter{
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+#social .fa-twitter:hover{
+	background-color: #fff;
+	color: blue;
+}
+#social .fa-youtube:hover{
+	background-color: #fff;
+	color: blue;
+}
+#social .fa-linkedin-in:hover{
+	background-color: #fff;
+	color: blue;
+}
+#social .fa-youtube{
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+#social .fa-linkedin-in{
+	padding-left: 6px;
+	padding-right: 6px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+.footer{
+	background-color: blue;
+}
+
+
+
+
+
+
+
+
